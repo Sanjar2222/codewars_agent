@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environment
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Sensitive credentials & keys
+credentials.json
+*.pem
+*.key
+.env
+
+# Scratch and temporary folders
+scratch/
+.pytest_cache/
